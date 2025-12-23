@@ -1,9 +1,3 @@
-ooooooo______ooo____ooo_____ooo____oo____oo__oo__ooo___ooo___________________
-oo____oo___oo___oo__oooo___oooo____oo___oo________oo____oo____ooooo__oo_ooo__
-oo____oo__oo_____oo_oo_oo_oo_oo____oo__oo____oo___oo____oo___oo____o_ooo___o_
-ooooooo___ooooooooo_oo__ooo__oo____oooooo____oo___oo____oo___ooooooo_oo______
-oo____oo__oo_____oo_oo_______oo____oo___oo___oo___oo____oo___oo______oo______
-oo_____oo_oo_____oo_oo_______oo____oo____oo_oooo_ooooo_ooooo__ooooo__oo______
-_____________________________________________________________________________
+<img width="456" height="91" alt="ascii-art-text" src="https://github.com/user-attachments/assets/55299a45-722f-492c-b6b3-cb984ded089a" />
 
 This batch malware can spam CMD and any programs for more memory, even lowest RAM (128MB,268MB,512MB) to 16GB RAM, 32GB RAM, 64GB RAM and more
